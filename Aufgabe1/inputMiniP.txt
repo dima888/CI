@@ -1,0 +1,54 @@
+program 
+
+/*
+Waass geht ab juhuuuu!!!!; 
+string prof;
+*/
+
+real affenTier;
+string variableA;
+string affe;
+integer f;
+integer c;
+
+boolean flag;
+
+integer falsch;
+
+begin
+
+affenTier := 25.123;
+
+variableA := 'karakuli';
+affe := 'affe';
+f := 12;
+c := 24;
+flag := true;
+
+falsch := 'Das darf nicht gehen! geht aber weil der Scanner dumm ist!';
+
+read(c);
+
+println('muhhhh');
+println(f);
+
+if 1 > 8 
+then f := 4;	
+	if f < c 
+	  then c := 25; 
+	fi
+	
+else f := 9;
+fi
+
+while f > c do
+
+read(f);
+
+string buffer;
+buffer := 'my Buffer yeaaah';
+
+od
+	
+
+end
