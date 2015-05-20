@@ -1,0 +1,7 @@
+fragment
+————————
+
+
+Für die Regel wird kein Token erzeugt.
+Eine mit Fragment erstellte Regel wird von einer anderen Lexerregel verwendet.
+
